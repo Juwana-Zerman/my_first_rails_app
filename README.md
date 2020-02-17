@@ -1,7 +1,7 @@
 # README
 
 # HEROKU LIVE VERSION
-[https://ancient-woodland-40325.herokuapp.com/]Click Here)
+[https://ancient-woodland-40325.herokuapp.com/](Click Here)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
